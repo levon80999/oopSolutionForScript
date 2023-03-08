@@ -1,5 +1,6 @@
 {
     "require": {
+        "php": "^8.0",
         "phpunit/phpunit": "^10.0",
         "mikey179/vfsstream": "^1.6",
         "guzzlehttp/guzzle": "^7.0"
